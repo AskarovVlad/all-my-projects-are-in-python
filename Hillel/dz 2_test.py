@@ -1,0 +1,1 @@
+s = 'qwertey-bgtbttr e'
